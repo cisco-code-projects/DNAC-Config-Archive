@@ -31,4 +31,4 @@ A subfolder will be automatically created for the configurations based on the ti
 
 
 ## License
-This project is licensed to you under the terms of the [Cisco Sample Code License.](https://github.com/cisco-code-projects/DNAC-Config-Archive/main/LICENSE)
+This project is licensed to you under the terms of the [Cisco Sample Code License.](https://github.com/cisco-code-projects/DNAC-Config-Archive/blob/main/LICENSE)
